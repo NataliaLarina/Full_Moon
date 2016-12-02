@@ -1,0 +1,19 @@
+{
+  "name": "full_moon",
+  "version": "1.0.0",
+  "description": "Awesome Full Moon Calendar App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NataliaLarina/Full_Moon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NataliaLarina/Full_Moon/issues"
+  },
+  "homepage": "https://github.com/NataliaLarina/Full_Moon#readme"
+}
